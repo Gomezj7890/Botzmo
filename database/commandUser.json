@@ -1,0 +1,94 @@
+[
+  {
+    "jid": "6285763932319@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#addsewa",
+        "count": 11
+      },
+      {
+        "nama": "#menu",
+        "count": 4
+      },
+      {
+        "nama": "#close",
+        "count": 3
+      },
+      {
+        "nama": "#checksewa",
+        "count": 1
+      },
+      {
+        "nama": "#autoaijapri",
+        "count": 1
+      },
+      {
+        "nama": "#listsewa",
+        "count": 6
+      },
+      {
+        "nama": "#addprem",
+        "count": 2
+      },
+      {
+        "nama": "#setopen",
+        "count": 1
+      },
+      {
+        "nama": "#group",
+        "count": 4
+      },
+      {
+        "nama": "#changeopen",
+        "count": 1
+      },
+      {
+        "nama": "#setclose",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6281378216211@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#autoaijapri",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "jid": "6281266334443@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#afk",
+        "count": 1
+      },
+      {
+        "nama": "#group",
+        "count": 1
+      },
+      {
+        "nama": "#close",
+        "count": 1
+      },
+      {
+        "nama": "#listsewa",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "jid": "6281378320650@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 3
+      },
+      {
+        "nama": "#listpremium",
+        "count": 1
+      }
+    ]
+  }
+]

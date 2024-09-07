@@ -1,0 +1,54 @@
+[
+  {
+    "nama": "#addsewa",
+    "count": 11
+  },
+  {
+    "nama": "#menu",
+    "count": 7
+  },
+  {
+    "nama": "#close",
+    "count": 4
+  },
+  {
+    "nama": "#checksewa",
+    "count": 1
+  },
+  {
+    "nama": "#autoaijapri",
+    "count": 4
+  },
+  {
+    "nama": "#afk",
+    "count": 1
+  },
+  {
+    "nama": "#group",
+    "count": 5
+  },
+  {
+    "nama": "#listsewa",
+    "count": 9
+  },
+  {
+    "nama": "#addprem",
+    "count": 2
+  },
+  {
+    "nama": "#listpremium",
+    "count": 1
+  },
+  {
+    "nama": "#setopen",
+    "count": 1
+  },
+  {
+    "nama": "#changeopen",
+    "count": 1
+  },
+  {
+    "nama": "#setclose",
+    "count": 1
+  }
+]
